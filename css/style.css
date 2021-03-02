@@ -372,6 +372,14 @@ h3.agileits-title {
 .b-link-stripe:hover .b-line{
 	opacity:1;
 }
+
+.w3-agile-amet {
+    /* margin: 1.5em 0 0; */
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+    line-height: 1.8em;
+}
 /* Self Clearing Goodness */
 .container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
 .clearfix:before,
