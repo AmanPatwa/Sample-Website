@@ -1461,6 +1461,9 @@ button.close {
 	.singular-grid-left span.glyphicon {
 		font-size: 2em;
 	} 
+	iframe{
+		width: 350px;
+	}
 }
 @media screen and (max-width: 414px){
 	.top-nav {
@@ -1520,6 +1523,9 @@ button.close {
 	.cap p { 
 		padding: 5em 0 0;
 	}
+	iframe{
+		width: 320px;
+	}
 }
 @media screen and (max-width: 384px){
 	.top-nav {
@@ -1553,6 +1559,9 @@ button.close {
 		text-align: center;
 		margin-top: 1em;
 	}
+	iframe{
+		width: auto;
+	}
 }
 @media screen and (max-width: 375px){
 	.header-left h1 {
@@ -1581,6 +1590,9 @@ button.close {
 	.about-grid:nth-child(2){
 		margin-top: 1em;
 	} 
+	iframe{
+		width: auto;
+	}
 }
 @media screen and (max-width: 320px){
 	.top-nav {
@@ -1692,4 +1704,7 @@ button.close {
 	.b-from-left p {
 		padding: 4.7em 0;
 	}	
+	iframe{
+		width: auto;
+	}
 }
