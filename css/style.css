@@ -1526,6 +1526,9 @@ button.close {
 	iframe{
 		width: 320px;
 	}
+	.set-image{
+		width: 350px;
+	}
 }
 @media screen and (max-width: 384px){
 	.top-nav {
@@ -1562,6 +1565,9 @@ button.close {
 	iframe{
 		width: auto;
 	}
+	.set-image{
+		width: 300px;
+	}
 }
 @media screen and (max-width: 375px){
 	.header-left h1 {
@@ -1592,6 +1598,9 @@ button.close {
 	} 
 	iframe{
 		width: auto;
+	}
+	.set-image{
+		width: 300px;
 	}
 }
 @media screen and (max-width: 320px){
@@ -1706,5 +1715,8 @@ button.close {
 	}	
 	iframe{
 		width: auto;
+	}
+	.set-image{
+		width: 250px;
 	}
 }
